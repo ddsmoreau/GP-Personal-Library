@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WeatherPaper</string>
+    <string name="set_wallpaper">Set Wallpaper</string>
+    <string name="live_wallpaper_title">WeatherPaper Live Wallpaper</string>
+    <string name="live_wallpaper_description">Live dynamic wallpaper that automatically reflects current weather and time.</string>
+</resources>

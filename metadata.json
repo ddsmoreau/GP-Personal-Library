@@ -1,0 +1,6 @@
+{
+  "name": "WeatherPaper",
+  "description": "Dynamic wallpapers that change live with current weather, time of day, and stunning visual themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
